@@ -67,10 +67,17 @@ button:hover {
   max-width: 700px;
 }
 
-.project img {
+.project-img {
   margin-top: 15px;
   border-radius: 10px;
   border: 2px solid deepskyblue;
+
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
